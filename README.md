@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-roan-seven-25.vercel.app/api/top-langs/?username=iammytoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-roan-seven-25.vercel.app/api/top-langs/?username=iammytoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats-roan-seven-25.vercel.app/api?username=iammytoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
 <!--
